@@ -1,8 +1,8 @@
 ﻿# Neon Vice: Syndicate
 
-[![make.fun](https://make.fun/c/gta6-01.svg)](https://make.fun/c/gta6-01)
-[![rank](https://make.fun/c/gta6-01/rank.svg)](https://make.fun/c/gta6-01)
-[![reward](https://make.fun/c/gta6-01/reward.svg)](https://make.fun/c/gta6-01)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/ssass88/gta6-01/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/ssass88/gta6-01/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 An open-world crime game in the spirit of GTA 6, set in the sun-soaked, neon-lit criminal underworld of Vice City.
 
@@ -41,7 +41,7 @@ Open http://localhost:8080 in Chrome to play!
 | **Enter / Exit Car** | F or Enter |
 | **Handbrake** | Space |
 | **Aim & Shoot** | Mouse Aim + Left Click |
-| **Switch Weapon** | 1, 2, 3, 4 or Mouse Wheel |
+| **Switch Weapon** | 1, 2, 3, 4, 5, 6 or Mouse Wheel |
 | **Radio Station** | R |
 | **Pause / Resume** | P or Escape |
 
