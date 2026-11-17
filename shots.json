@@ -1,0 +1,6 @@
+[
+  { "name": "1-city.png", "query": "?shot=city&seed=1" },
+  { "name": "2-driving.png", "query": "?shot=driving&seed=1" },
+  { "name": "3-police-chase.png", "query": "?shot=police-chase&seed=1" },
+  { "name": "4-mission.png", "query": "?shot=mission&seed=1" }
+]
